@@ -1,0 +1,448 @@
+
+segmentation start image size width[466] x height[484]
+
+
+Original segment ID : 140197[300, 397]
+Original mean value[0] : 25.000
+Original mean value[1] : 33.000
+Original mean value[2] : 15.000
+Original mean value[3] : 116.000
+Process mask file begins.
+Process mask file ends.
+------------------------------
+140198 will be merged into 140197
+segment[140197] and segment[140198] method[BSSE] value : 1.225
+befor merge 140198 into 140197
+segment[140197] contains 1 pixels
+band[0] mean value:25.000
+band[1] mean value:33.000
+band[2] mean value:15.000
+band[3] mean value:116.000
+segment[140198] contains 1 pixels
+band[0] mean value:25.000
+band[1] mean value:32.000
+band[2] mean value:14.000
+band[3] mean value:117.000
+segment[140197] band[0] mean value:25.000, Entropy: 0.000
+segment[140197] band[1] mean value:32.500, Entropy: 0.000
+segment[140197] band[2] mean value:14.500, Entropy: 0.000
+segment[140197] band[3] mean value:116.500, Entropy: 0.000
+after merge 140198 into 140197, segment[140197] contains 2 pixels, segment[140197] Entropy : -0.000
+------------------------------
+140199 will be merged into 140197
+segment[140197] and segment[140199] method[BSSE] value : 2.185
+befor merge 140199 into 140197
+segment[140197] contains 2 pixels
+band[0] mean value:25.000
+band[1] mean value:32.500
+band[2] mean value:14.500
+band[3] mean value:116.500
+segment[140199] contains 3 pixels
+band[0] mean value:24.667
+band[1] mean value:32.000
+band[2] mean value:14.000
+band[3] mean value:118.333
+segment[140197] band[0] mean value:24.800, Entropy: 0.000
+segment[140197] band[1] mean value:32.200, Entropy: 0.000
+segment[140197] band[2] mean value:14.200, Entropy: 0.000
+segment[140197] band[3] mean value:117.600, Entropy: 0.000
+after merge 140199 into 140197, segment[140197] contains 5 pixels, segment[140197] Entropy : 0.000
+------------------------------
+140197 will be merged into 140665
+segment[140665] and segment[140197] method[BSSE] value : 5.170
+befor merge 140197 into 140665
+segment[140665] contains 1 pixels
+band[0] mean value:24.000
+band[1] mean value:32.000
+band[2] mean value:14.000
+band[3] mean value:112.000
+segment[140197] contains 5 pixels
+band[0] mean value:24.800
+band[1] mean value:32.200
+band[2] mean value:14.200
+band[3] mean value:117.600
+segment[140665] band[0] mean value:24.667, Entropy: 0.000
+segment[140665] band[1] mean value:32.167, Entropy: 0.000
+segment[140665] band[2] mean value:14.167, Entropy: 0.000
+segment[140665] band[3] mean value:116.667, Entropy: 0.000
+after merge 140197 into 140665, segment[140665] contains 6 pixels, segment[140665] Entropy : -0.000
+------------------------------
+140665 will be merged into 141600
+segment[141600] and segment[140665] method[BSSE] value : 5.348
+befor merge 140665 into 141600
+segment[141600] contains 4 pixels
+band[0] mean value:25.000
+band[1] mean value:32.500
+band[2] mean value:14.000
+band[3] mean value:113.250
+segment[140665] contains 6 pixels
+band[0] mean value:24.667
+band[1] mean value:32.167
+band[2] mean value:14.167
+band[3] mean value:116.667
+segment[141600] band[0] mean value:24.800, Entropy: 0.000
+segment[141600] band[1] mean value:32.300, Entropy: 0.000
+segment[141600] band[2] mean value:14.100, Entropy: 0.000
+segment[141600] band[3] mean value:115.300, Entropy: 0.000
+after merge 140665 into 141600, segment[141600] contains 10 pixels, segment[141600] Entropy : 0.000
+------------------------------
+141600 will be merged into 142065
+segment[142065] and segment[141600] method[BSSE] value : 4.597
+befor merge 141600 into 142065
+segment[142065] contains 4 pixels
+band[0] mean value:25.000
+band[1] mean value:32.500
+band[2] mean value:14.250
+band[3] mean value:118.000
+segment[141600] contains 10 pixels
+band[0] mean value:24.800
+band[1] mean value:32.300
+band[2] mean value:14.100
+band[3] mean value:115.300
+segment[142065] band[0] mean value:24.857, Entropy: 0.000
+segment[142065] band[1] mean value:32.357, Entropy: 0.000
+segment[142065] band[2] mean value:14.143, Entropy: 0.000
+segment[142065] band[3] mean value:116.071, Entropy: 0.000
+after merge 141600 into 142065, segment[142065] contains 14 pixels, segment[142065] Entropy : -0.000
+------------------------------
+142065 will be merged into 142999
+segment[142999] and segment[142065] method[BSSE] value : 3.358
+befor merge 142065 into 142999
+segment[142999] contains 3 pixels
+band[0] mean value:24.000
+band[1] mean value:31.000
+band[2] mean value:14.000
+band[3] mean value:114.667
+segment[142065] contains 14 pixels
+band[0] mean value:24.857
+band[1] mean value:32.357
+band[2] mean value:14.143
+band[3] mean value:116.071
+segment[142999] band[0] mean value:24.706, Entropy: 0.000
+segment[142999] band[1] mean value:32.118, Entropy: 0.000
+segment[142999] band[2] mean value:14.118, Entropy: 0.000
+segment[142999] band[3] mean value:115.824, Entropy: 0.000
+after merge 142065 into 142999, segment[142999] contains 17 pixels, segment[142999] Entropy : 0.000
+------------------------------
+142999 will be merged into 143463
+segment[143463] and segment[142999] method[BSSE] value : 3.703
+befor merge 142999 into 143463
+segment[143463] contains 1 pixels
+band[0] mean value:25.000
+band[1] mean value:34.000
+band[2] mean value:15.000
+band[3] mean value:119.000
+segment[142999] contains 17 pixels
+band[0] mean value:24.706
+band[1] mean value:32.118
+band[2] mean value:14.118
+band[3] mean value:115.824
+segment[143463] band[0] mean value:24.722, Entropy: 0.000
+segment[143463] band[1] mean value:32.222, Entropy: 0.000
+segment[143463] band[2] mean value:14.167, Entropy: 0.000
+segment[143463] band[3] mean value:116.000, Entropy: 0.000
+after merge 142999 into 143463, segment[143463] contains 18 pixels, segment[143463] Entropy : -0.000
+------------------------------
+143463 will be merged into 142534
+segment[142534] and segment[143463] method[BSSE] value : 5.166
+befor merge 143463 into 142534
+segment[142534] contains 5 pixels
+band[0] mean value:24.800
+band[1] mean value:32.000
+band[2] mean value:14.200
+band[3] mean value:118.600
+segment[143463] contains 18 pixels
+band[0] mean value:24.722
+band[1] mean value:32.222
+band[2] mean value:14.167
+band[3] mean value:116.000
+segment[142534] band[0] mean value:24.739, Entropy: 0.000
+segment[142534] band[1] mean value:32.174, Entropy: 0.000
+segment[142534] band[2] mean value:14.174, Entropy: 0.000
+segment[142534] band[3] mean value:116.565, Entropy: 0.000
+after merge 143463 into 142534, segment[142534] contains 23 pixels, segment[142534] Entropy : 0.000
+------------------------------
+142534 will be merged into 142535
+segment[142535] and segment[142534] method[BSSE] value : 3.406
+befor merge 142534 into 142535
+segment[142535] contains 4 pixels
+band[0] mean value:24.750
+band[1] mean value:32.500
+band[2] mean value:14.250
+band[3] mean value:114.750
+segment[142534] contains 23 pixels
+band[0] mean value:24.739
+band[1] mean value:32.174
+band[2] mean value:14.174
+band[3] mean value:116.565
+segment[142535] band[0] mean value:24.741, Entropy: 0.000
+segment[142535] band[1] mean value:32.222, Entropy: 0.000
+segment[142535] band[2] mean value:14.185, Entropy: 0.000
+segment[142535] band[3] mean value:116.296, Entropy: 0.000
+after merge 142534 into 142535, segment[142535] contains 27 pixels, segment[142535] Entropy : 0.000
+------------------------------
+142535 will be merged into 142532
+segment[142532] and segment[142535] method[BSSE] value : 7.667
+befor merge 142535 into 142532
+segment[142532] contains 1 pixels
+band[0] mean value:25.000
+band[1] mean value:31.000
+band[2] mean value:14.000
+band[3] mean value:124.000
+segment[142535] contains 27 pixels
+band[0] mean value:24.741
+band[1] mean value:32.222
+band[2] mean value:14.185
+band[3] mean value:116.296
+segment[142532] band[0] mean value:24.750, Entropy: 0.000
+segment[142532] band[1] mean value:32.179, Entropy: 0.000
+segment[142532] band[2] mean value:14.179, Entropy: 0.000
+segment[142532] band[3] mean value:116.571, Entropy: 0.000
+after merge 142535 into 142532, segment[142532] contains 28 pixels, segment[142532] Entropy : -0.000
+------------------------------
+142532 will be merged into 141137
+segment[141137] and segment[142532] method[BSSE] value : 8.362
+befor merge 142532 into 141137
+segment[141137] contains 1 pixels
+band[0] mean value:25.000
+band[1] mean value:33.000
+band[2] mean value:15.000
+band[3] mean value:125.000
+segment[142532] contains 28 pixels
+band[0] mean value:24.750
+band[1] mean value:32.179
+band[2] mean value:14.179
+band[3] mean value:116.571
+segment[141137] band[0] mean value:24.759, Entropy: 0.000
+segment[141137] band[1] mean value:32.207, Entropy: 0.000
+segment[141137] band[2] mean value:14.207, Entropy: 0.000
+segment[141137] band[3] mean value:116.862, Entropy: 0.000
+after merge 142532 into 141137, segment[141137] contains 29 pixels, segment[141137] Entropy : 0.000
+------------------------------
+142068 will be merged into 141137
+segment[141137] and segment[142068] method[BSSE] value : 12.966
+befor merge 142068 into 141137
+segment[141137] contains 29 pixels
+band[0] mean value:24.759
+band[1] mean value:32.207
+band[2] mean value:14.207
+band[3] mean value:116.862
+segment[142068] contains 1 pixels
+band[0] mean value:25.000
+band[1] mean value:33.000
+band[2] mean value:15.000
+band[3] mean value:130.000
+segment[141137] band[0] mean value:24.767, Entropy: 0.000
+segment[141137] band[1] mean value:32.233, Entropy: 0.000
+segment[141137] band[2] mean value:14.233, Entropy: 0.000
+segment[141137] band[3] mean value:117.300, Entropy: 0.000
+after merge 142068 into 141137, segment[141137] contains 30 pixels, segment[141137] Entropy : -0.000
+------------------------------
+141137 will be merged into 143931
+segment[143931] and segment[141137] method[BSSE] value : 15.853
+befor merge 141137 into 143931
+segment[143931] contains 9 pixels
+band[0] mean value:25.222
+band[1] mean value:33.778
+band[2] mean value:15.333
+band[3] mean value:123.000
+segment[141137] contains 30 pixels
+band[0] mean value:24.767
+band[1] mean value:32.233
+band[2] mean value:14.233
+band[3] mean value:117.300
+segment[143931] band[0] mean value:24.872, Entropy: 0.000
+segment[143931] band[1] mean value:32.590, Entropy: 0.000
+segment[143931] band[2] mean value:14.487, Entropy: 0.000
+segment[143931] band[3] mean value:118.615, Entropy: 0.000
+after merge 141137 into 143931, segment[143931] contains 39 pixels, segment[143931] Entropy : 0.000
+------------------------------
+143931 will be merged into 142533
+segment[142533] and segment[143931] method[BSSE] value : 18.167
+befor merge 143931 into 142533
+segment[142533] contains 1 pixels
+band[0] mean value:25.000
+band[1] mean value:33.000
+band[2] mean value:15.000
+band[3] mean value:137.000
+segment[143931] contains 39 pixels
+band[0] mean value:24.872
+band[1] mean value:32.590
+band[2] mean value:14.487
+band[3] mean value:118.615
+segment[142533] band[0] mean value:24.875, Entropy: 0.000
+segment[142533] band[1] mean value:32.600, Entropy: 0.000
+segment[142533] band[2] mean value:14.500, Entropy: 0.000
+segment[142533] band[3] mean value:119.075, Entropy: 0.000
+after merge 143931 into 142533, segment[142533] contains 40 pixels, segment[142533] Entropy : -0.000
+------------------------------
+135536 will be merged into 142533
+segment[142533] and segment[135536] method[BSSE] value : 16.622
+befor merge 135536 into 142533
+segment[142533] contains 40 pixels
+band[0] mean value:24.875
+band[1] mean value:32.600
+band[2] mean value:14.500
+band[3] mean value:119.075
+segment[135536] contains 336 pixels
+band[0] mean value:24.887
+band[1] mean value:32.842
+band[2] mean value:14.577
+band[3] mean value:121.845
+segment[142533] band[0] mean value:24.886, Entropy: 0.000
+segment[142533] band[1] mean value:32.816, Entropy: 0.000
+segment[142533] band[2] mean value:14.569, Entropy: 0.000
+segment[142533] band[3] mean value:121.551, Entropy: 0.000
+after merge 135536 into 142533, segment[142533] contains 376 pixels, segment[142533] Entropy : 0.000
+------------------------------
+142533 will be merged into 134128
+segment[134128] and segment[142533] method[BSSE] value : 17.707
+befor merge 142533 into 134128
+segment[134128] contains 1 pixels
+band[0] mean value:24.000
+band[1] mean value:31.000
+band[2] mean value:13.000
+band[3] mean value:104.000
+segment[142533] contains 376 pixels
+band[0] mean value:24.886
+band[1] mean value:32.816
+band[2] mean value:14.569
+band[3] mean value:121.551
+segment[134128] band[0] mean value:24.883, Entropy: 0.000
+segment[134128] band[1] mean value:32.812, Entropy: 0.000
+segment[134128] band[2] mean value:14.565, Entropy: 0.000
+segment[134128] band[3] mean value:121.504, Entropy: 0.000
+after merge 142533 into 134128, segment[134128] contains 377 pixels, segment[134128] Entropy : -0.000
+------------------------------
+134128 will be merged into 142057
+segment[142057] and segment[134128] method[BSSE] value : 18.243
+befor merge 134128 into 142057
+segment[142057] contains 80 pixels
+band[0] mean value:24.975
+band[1] mean value:32.563
+band[2] mean value:14.550
+band[3] mean value:119.275
+segment[134128] contains 377 pixels
+band[0] mean value:24.883
+band[1] mean value:32.812
+band[2] mean value:14.565
+band[3] mean value:121.504
+segment[142057] band[0] mean value:24.899, Entropy: 0.000
+segment[142057] band[1] mean value:32.768, Entropy: 0.000
+segment[142057] band[2] mean value:14.562, Entropy: 0.000
+segment[142057] band[3] mean value:121.114, Entropy: 0.000
+after merge 134128 into 142057, segment[142057] contains 457 pixels, segment[142057] Entropy : 0.000
+------------------------------
+142057 will be merged into 135541
+segment[135541] and segment[142057] method[BSSE] value : 17.741
+befor merge 142057 into 135541
+segment[135541] contains 12 pixels
+band[0] mean value:24.083
+band[1] mean value:31.667
+band[2] mean value:13.833
+band[3] mean value:116.167
+segment[142057] contains 457 pixels
+band[0] mean value:24.899
+band[1] mean value:32.768
+band[2] mean value:14.562
+band[3] mean value:121.114
+segment[135541] band[0] mean value:24.878, Entropy: 0.000
+segment[135541] band[1] mean value:32.740, Entropy: 0.000
+segment[135541] band[2] mean value:14.544, Entropy: 0.000
+segment[135541] band[3] mean value:120.987, Entropy: 0.000
+after merge 142057 into 135541, segment[135541] contains 469 pixels, segment[135541] Entropy : -0.000
+------------------------------
+135541 will be merged into 134132
+segment[134132] and segment[135541] method[BSSE] value : 17.625
+befor merge 135541 into 134132
+segment[134132] contains 2 pixels
+band[0] mean value:25.000
+band[1] mean value:32.500
+band[2] mean value:14.500
+band[3] mean value:108.500
+segment[135541] contains 469 pixels
+band[0] mean value:24.878
+band[1] mean value:32.740
+band[2] mean value:14.544
+band[3] mean value:120.987
+segment[134132] band[0] mean value:24.879, Entropy: 0.000
+segment[134132] band[1] mean value:32.739, Entropy: 0.000
+segment[134132] band[2] mean value:14.544, Entropy: 0.000
+segment[134132] band[3] mean value:120.934, Entropy: 0.000
+after merge 135541 into 134132, segment[134132] contains 471 pixels, segment[134132] Entropy : 0.000
+------------------------------
+134132 will be merged into 126201
+segment[126201] and segment[134132] method[BSSE] value : 18.215
+befor merge 134132 into 126201
+segment[126201] contains 123 pixels
+band[0] mean value:24.715
+band[1] mean value:32.382
+band[2] mean value:14.325
+band[3] mean value:119.146
+segment[134132] contains 471 pixels
+band[0] mean value:24.879
+band[1] mean value:32.739
+band[2] mean value:14.544
+band[3] mean value:120.934
+segment[126201] band[0] mean value:24.845, Entropy: 0.000
+segment[126201] band[1] mean value:32.665, Entropy: 0.000
+segment[126201] band[2] mean value:14.498, Entropy: 0.000
+segment[126201] band[3] mean value:120.564, Entropy: 0.000
+after merge 134132 into 126201, segment[126201] contains 594 pixels, segment[126201] Entropy : 0.000
+------------------------------
+126201 will be merged into 144389
+segment[144389] and segment[126201] method[BSSE] value : 17.330
+befor merge 126201 into 144389
+segment[144389] contains 16 pixels
+band[0] mean value:25.000
+band[1] mean value:32.625
+band[2] mean value:14.750
+band[3] mean value:116.188
+segment[126201] contains 594 pixels
+band[0] mean value:24.845
+band[1] mean value:32.665
+band[2] mean value:14.498
+band[3] mean value:120.564
+segment[144389] band[0] mean value:24.849, Entropy: 0.000
+segment[144389] band[1] mean value:32.664, Entropy: 0.000
+segment[144389] band[2] mean value:14.505, Entropy: 0.000
+segment[144389] band[3] mean value:120.449, Entropy: 0.000
+after merge 126201 into 144389, segment[144389] contains 610 pixels, segment[144389] Entropy : 0.000
+------------------------------
+144389 will be merged into 137396
+segment[137396] and segment[144389] method[BSSE] value : 17.784
+befor merge 144389 into 137396
+segment[137396] contains 8 pixels
+band[0] mean value:24.750
+band[1] mean value:32.625
+band[2] mean value:14.125
+band[3] mean value:114.125
+segment[144389] contains 610 pixels
+band[0] mean value:24.849
+band[1] mean value:32.664
+band[2] mean value:14.505
+band[3] mean value:120.449
+segment[137396] band[0] mean value:24.848, Entropy: 0.000
+segment[137396] band[1] mean value:32.663, Entropy: 0.000
+segment[137396] band[2] mean value:14.500, Entropy: 0.000
+segment[137396] band[3] mean value:120.367, Entropy: 0.000
+after merge 144389 into 137396, segment[137396] contains 618 pixels, segment[137396] Entropy : 0.000
+------------------------------
+137396 will be merged into 139264
+segment[139264] and segment[137396] method[BSSE] value : 18.986
+befor merge 137396 into 139264
+segment[139264] contains 2 pixels
+band[0] mean value:24.500
+band[1] mean value:31.500
+band[2] mean value:14.000
+band[3] mean value:107.000
+segment[137396] contains 618 pixels
+band[0] mean value:24.848
+band[1] mean value:32.663
+band[2] mean value:14.500
+band[3] mean value:120.367
+segment[139264] band[0] mean value:24.847, Entropy: 0.000
+segment[139264] band[1] mean value:32.660, Entropy: 0.000
+segment[139264] band[2] mean value:14.498, Entropy: 0.000
+segment[139264] band[3] mean value:120.324, Entropy: 0.000
+after merge 137396 into 139264, segment[139264] contains 620 pixels, segment[139264] Entropy : 0.000
